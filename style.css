@@ -2,7 +2,7 @@
 
 body{
 	background: #E9E6E5;
-	color:grey;
+	color: #7D7776;
 }
 
 a {
@@ -84,8 +84,8 @@ a: hover {
 	color: #E9E6E5;
 }
 
-.list-inline i:hoover {
-	color: grey;
+.list-inline i :hoover {
+	color: #7D7776;
 }
 
 #vision p {
