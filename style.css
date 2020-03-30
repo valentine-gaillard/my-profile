@@ -5,6 +5,7 @@ body{
 	color: #7D7776;
 	font-family: 'Crimson Text', serif;
 	font-size: 17px
+	font-weight:150;
 }
 
 h1, h2, h3, h4 {
@@ -22,7 +23,7 @@ h2, h3, h4 {
 a {
 	color: #E9E6E5;
 	font-weight: 600;
-	font-size: 16px;
+	font-size: 17px;
 }
 
 a: hover {
